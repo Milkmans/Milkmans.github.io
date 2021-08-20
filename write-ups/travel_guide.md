@@ -1,7 +1,7 @@
 ---
-title: Writeups
+title: ##Writeups
 permalink: /write-ups/
 layout: collection
 ---
 
-**[Blueteam Labs Online](/write-ups/btlo)**
+- **[Blueteam Labs Online](/write-ups/btlo)**
