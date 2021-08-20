@@ -104,7 +104,8 @@ author:
   name             : "Milkman"
   avatar           : "/images/pngkit_vaca-png_538652.png"
   bio              : #"I am an **amazing** person."
-  location         : "[The Farm](https://en.wikipedia.org/wiki/Camp_Peary)"
+  location         : "The Farm"
+  url              : "https://en.wikipedia.org/wiki/Camp_Peary"
   email            :
   links:
     - label: "Email"
@@ -137,10 +138,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Milkmans/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      $url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
