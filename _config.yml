@@ -105,7 +105,7 @@ author:
   avatar           : "/images/pngkit_vaca-png_538652.png"
   bio              : #"I am an **amazing** person."
   location         : "The Farm"
-  url              : "https://en.wikipedia.org/wiki/Camp_Peary"
+  url: "https://en.wikipedia.org/wiki/Camp_Peary"
   email            :
   links:
     - label: "Email"
@@ -138,16 +138,16 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Milkmans/"
+      url : "https://github.com/Milkmans/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      $url: 
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      #url: 
+    - label: "BTLO"
+      icon: "fab fa-fw fa-btlo"
+      url : "https://blueteamlabs.online/home/user/f7ea373e5c926f1fee1d9b"
+    - label: "TryHackMe"
+      icon: "fab fa-fw fa-tryhackme"
+      url : "https://tryhackme.com/p/Luther"
 
 
 # Reading Files
