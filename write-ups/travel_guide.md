@@ -11,7 +11,10 @@ layout: collection
   - _[Reverse Engineering](/write-ups/btlo/reverse_engineering)_
  
 # TryhackMe 
-  - Idk how I will organize this section yet.
+  - _[Red Team](/write-ups/tryhackme/redteam)_
+    - _[Web Application Hacking](/write-ups/tryhackme/wap)_
+  - _[Blue Team](/write-ups/tryhackme/blueteam)_
+    - _[Incident Response](/write-ups/tryhackme/incident_response)_   
   
 # LetsDefend
   - Keeping this section as placeholder. will determine if labs are worth it later.
