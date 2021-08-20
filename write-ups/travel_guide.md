@@ -12,3 +12,6 @@ layout: collection
  
 # TryhackMe 
   - Idk how I will organize this section yet.
+  
+# LetsDefend
+  - Keeping this section as placeholder. will determine if labs are worth it later.
