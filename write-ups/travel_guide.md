@@ -1,5 +1,5 @@
 ---
-title: ##Writeups
+title: ## Writeups
 permalink: /write-ups/
 layout: collection
 ---
