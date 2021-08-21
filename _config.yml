@@ -275,3 +275,37 @@ compress_html:
   ignore:
     envs: development
 
+
+# Collections
+collections:
+  btlo:
+    output: true
+    permalink: /:collection/:path/
+    
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+
+  # _btlo
+  - scope:
+      path: ""
+      type: btlo
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+      sidebar:
+        nav: "btlo"
