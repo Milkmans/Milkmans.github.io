@@ -14,11 +14,11 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+<!-- <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"> -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme_source">
 
-{% if site.minimal_mistakes_skin1 %}
+
+{% if site.minimal_mistakes_skin2 %}
   <link rel="stylesheet alternate" href="{{ '/assets/css/darkmode.css' | relative_url }}" id="theme_source_2">
   <script>
     let theme = sessionStorage.getItem('theme');
@@ -36,6 +36,23 @@
     }
   </script>
 {% endif %}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
