@@ -13,22 +13,15 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-# Navigation for btlo
+# Navigation for BTLO
 btlo:
+    - title: "Incident Response"
+      children:
+          - title: "Pretium"
+            url: /writeups/btlo/pretium
     - title: "Digital Forensics"
       children:
           - title: "Countdown"
-            url: /write-ups/btlo/digital_forensics/Countdown
-    - title: "Incident Response"
-      children:
-          - title: "Invoice"
-            url: /write-ups/btlo/incident_response/Invoice    
-     - title: "Security Operations"
-      children:
-          - title: "Phishyv1"
-            url: /write-ups/btlo/security_operations/Phishyv1   
-     - title: "Reverse Engineering"
-      children:
-          - title: "Placeholder"
-            url: /write-ups/btlo/reverse_engineering/Placeholder
-     
+            url: /writeups/btlo/countdown
+          - title: "Bad Logic"
+            url: /writeups/btlo/bad_logic
