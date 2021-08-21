@@ -17,9 +17,9 @@ minimal_mistakes_skin2    : "default" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Milkmans Lair"
+title                    : "Milkman's Lair"
 title_separator          : "-"
-subtitle                 : "Building strong bones and Infosec skills"
+subtitle                 : "Building strong bones & Infosec skills"
 name                     : "Milkman"
 description              : "Welcome to Chilis"
 url                      : # the base hostname & protocol for your site e.g. "https://milkmans.github.io"
