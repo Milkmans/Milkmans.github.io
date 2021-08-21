@@ -1,8 +1,8 @@
-# main links t
+# main links 
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Write-ups"
+   - title: "Writeups"
      url: /write-ups/
    - title: "Useful Resources"
      url: /useful_resources/
