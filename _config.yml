@@ -104,8 +104,11 @@ analytics:
 author:
   name             : "Milkman"
   avatar           : "/images/pngkit_vaca-png_538652.png"
-  bio              : #"I am an **amazing** person."
-  location         : "The Farm"
+  bio              : > Infosec 💻
+                       "Thoughts" 💭
+                       Milk 🥛
+
+  location         : "Pepperidge Farm, Remembers"
   url: "https://en.wikipedia.org/wiki/Camp_Peary"
   email            :
   links:
