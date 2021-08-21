@@ -1,4 +1,4 @@
-# main links
+# Navigation for main links on header
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
@@ -12,3 +12,26 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# Navigation for btlo
+btlo:
+    - title      : "Digital Forensics"
+      children   :
+          - title: "Countdown"
+            url  : /write-ups/btlo/digital_forensics/Countdown
+            
+    - title      : "Incident Response"
+      children   :
+          - title: "Invoice"
+            url  : /write-ups/btlo/incident_response/Invoice
+            
+     - title     : "Security Operations"
+      children   :
+          - title: "Phishyv1"
+            url  : /write-ups/btlo/security_operations/Phishyv1
+            
+     - title     : "Reverse Engineering"
+      children   :
+          - title: "Placeholder"
+            url  : /write-ups/btlo/reverse_engineering/Placeholder
+     
