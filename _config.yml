@@ -104,7 +104,10 @@ analytics:
 author:
   name             : "Milkman"
   avatar           : "/images/pngkit_vaca-png_538652.png"
-  bio              : "Infosec💻\n\r\n\"Thoughts\"\n\r\n💭Milk 🥛"
+  bio              : 
+                    "Infosec💻\n
+                    "Thoughts\"💭\n
+                     Milk 🥛"
   location         : "Pepperidge Farms"
   url: "https://en.wikipedia.org/wiki/Camp_Peary"
   email            :
