@@ -19,7 +19,7 @@ minimal_mistakes_skin2    : "default" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Milkman's Lair"
 title_separator          : "-"
-subtitle                 : "Building strong bones & Infosec skills"
+subtitle                 : "Building stronger bones & Infosec skills"
 name                     : "Milkman"
 description              : "Welcome to Chilis"
 url                      : # the base hostname & protocol for your site e.g. "https://milkmans.github.io"
@@ -104,10 +104,10 @@ analytics:
 author:
   name             : "Milkman"
   avatar           : "/images/pngkit_vaca-png_538652.png"
-  bio              : |- 
-                       test/n 
-                       test/n
-                       test
+  bio              : >
+  test
+  test
+  test
   location         : "Pepperidge Farms"
   url: "https://en.wikipedia.org/wiki/Camp_Peary"
   email            :
