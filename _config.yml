@@ -105,11 +105,11 @@ author:
   name             : "Milkman"
   avatar           : "/images/pngkit_vaca-png_538652.png"
   bio              : |- 
-                     Infosec\n
-                     Thoughts\n
-                     Fitness\n
-                     Milk\n
-  location         : [test](/images/expired.milk.png)
+                     Infosec
+                     Thoughts
+                     Fitness
+                     Milk
+  location         : "[test](/images/expired.milk.png)"
   email            :
   links:
     - label: "Email"
