@@ -109,7 +109,7 @@ author:
                      Thoughts
                      Fitness
                      Milk
-  location         : "[test](/images/expired.milk.png)"
+  location         : [test](/images/expired.milk.png)
   email            :
   links:
     - label: "Email"
