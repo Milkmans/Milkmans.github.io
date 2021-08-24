@@ -287,9 +287,9 @@ collections:
   btlo_forensics:
     output: true
     permalink: /:collection/:path/
-  test:
+  /btlo/test:
     output: true
-    permalink: /:collection/:path/:path/
+    permalink: /:collection/:path/
     
 # Defaults
 defaults:
