@@ -282,12 +282,6 @@ compress_html:
 # Collections
 collections_dir: btlo
 collections:
-  #btlo_operations:
-    #output: true
-    #permalink: /:collection/:path/
-  #btlo_forensics:
-    #output: true
-    #permalink: /:collection/:path/
   test:
     output: true
     permalink: /:collection/:path/
