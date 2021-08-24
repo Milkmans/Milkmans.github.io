@@ -280,7 +280,7 @@ compress_html:
 
 
 # Collections
-collections_dir: btlo
+collections_dir: _btlo
 collections:
   test:
     output: true
