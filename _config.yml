@@ -282,7 +282,16 @@ compress_html:
 # Collections
 collections_dir: _btlo
 collections:
-  test:
+  digital_forensics:
+    output: true
+    permalink: /:collection/:path/
+  incident_response:
+    output: true
+    permalink: /:collection/:path/
+  reverse_engineering:
+    output: true
+    permalink: /:collection/:path/
+  security_operations:
     output: true
     permalink: /:collection/:path/
     
