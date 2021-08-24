@@ -288,6 +288,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   test:
+    title: test
     output: true
     permalink: /:collection/:path/
     
