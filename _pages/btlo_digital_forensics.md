@@ -2,7 +2,7 @@
 title: Digital Forensic Investigations/Challenges
 layout: collection
 permalink: /write-ups/btlo/digital_forensics/
-collection: digital_forensics
+collection: btlo
 entries_layout: grid
 classes: wide
 ---
