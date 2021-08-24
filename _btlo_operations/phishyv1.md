@@ -5,5 +5,5 @@ excerpt: "You have been sent a phishing link. Sadly the threat actor doesn't kno
 permalink: /write-ups/btlo/security_operations/phishyv1
 
 header:
-  teaser: "/images/btlo/phishyv1/phishyv1_header.jpg"
+  teaser: "/images/btlo/phishyv1/phishyv1_header.png"
 ---
