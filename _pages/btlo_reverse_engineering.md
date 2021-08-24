@@ -2,7 +2,7 @@
 title: Reverse Engineering Investigations/Challenges
 layout: collection
 permalink: /write-ups/btlo/reverse_engineering/
-collection: test
+collection: btlo/test
 entries_layout: grid
 classes: wide
 ---
