@@ -284,6 +284,9 @@ collections:
   btlo_operations:
     output: true
     permalink: /:collection/:path/
+  btlo_forensics:
+    output: true
+    permalink: /:collection/:path/
     
 # Defaults
 defaults:
