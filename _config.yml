@@ -289,7 +289,7 @@ collections:
     permalink: /:collection/:path/
   test:
     output: true
-    permalink: /btlo/test
+    permalink: /_btlo/test/
     
 # Defaults
 defaults:
