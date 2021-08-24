@@ -281,11 +281,6 @@ compress_html:
 
 # Collections
 collections:
-  btlo_forensics:
-    output: true
-    permalink: /:collection/:path/
-
-collections:
   btlo_operations:
     output: true
     permalink: /:collection/:path/
