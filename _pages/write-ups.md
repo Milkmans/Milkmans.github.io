@@ -17,4 +17,4 @@ layout: collection
     - _[Incident Response](/write-ups/tryhackme/incident_response)_   
   
 ## LetsDefend
-  - Keeping this section as placeholder. will determine if labs are worth it later.
+  - Keeping this section as placeholder. will determine if labs are worth it later..
