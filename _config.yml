@@ -289,7 +289,7 @@ collections:
     permalink: /:collection/:path/
   test:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/:path/
     
 # Defaults
 defaults:
