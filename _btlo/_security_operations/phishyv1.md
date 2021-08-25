@@ -8,4 +8,15 @@ layout: btlo
 header:
   teaser: "/images/btlo/phishyv1/phishyv1_header.png"
 ---
-In development...
+![](/images/btlo/phishyv1/phishyv1_header.png)
+## **Overview**
+### <ins>Scenario</ins>
+You have been sent a phishing link - It is your task to investigate this website and find out everything you can about the site, the actor responsible, and perform threat intelligence work on the operator(s) of the phishing site.
+
+### <ins>Tool(s)</ins>
+ - [Linux CLI (Bash)](https://www.gnu.org/software/bash/manual/bash.html){:target="_blank"}
+
+
+### <ins>Featured Song</ins>
+<iframe src="https://open.spotify.com/embed/track/6Hj9jySrnFppAI0sEMCZpJ" width="40%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
