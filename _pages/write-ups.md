@@ -9,7 +9,7 @@ layout: collection
   - _[Incident Response](/write-ups/btlo/incident_response)_
   - _[Security Operations](/write-ups/btlo/security_operations)_
   - _[Reverse Engineering](/write-ups/btlo/reverse_engineering)_
-  - _[a test](/write-ups/btlo/thisisatest)_
+  - _[a test](/write-ups/btlo/thisisatest/)_
 ## TryhackMe 
   - _[Red Team](/write-ups/tryhackme/redteam)_
     - _[Web Application Hacking](/write-ups/tryhackme/wap)_
