@@ -15,17 +15,7 @@ main:
 
 # Navigation for BTLO
 btlo:
-    - title: "Incident Response"
-      children:
-          - title: "Pretium"
-            url: /write-ups/btlo/incident_response/pretium
     - title: "Digital Forensics"
-      children:
-          - title: "Countdown"
-            url: /write-ups/btlo/digital_forensics/countdown
-          - title: "Bad Logic"
-            url: /write-ups/btlo/digital_forensics/bad_logic
-    - title: "Security Operations" 
-      children: 
-          - title: "test"
-            url: /write-ups/btlo/security_operations/
+    - title: "Incident Response"
+    - title: "Reverse Engineering"
+    - title: "Security Operations"    
