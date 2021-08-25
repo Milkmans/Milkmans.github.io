@@ -18,10 +18,10 @@ btlo:
     - title: "Incident Response"
       children:
           - title: "Pretium"
-            url: /writeups/btlo/pretium
+            url: /write-ups/btlo/incident_response/pretium
     - title: "Digital Forensics"
       children:
           - title: "Countdown"
-            url: /writeups/btlo/countdown
+            url: /write-ups/btlo/digital_forensics/countdown
           - title: "Bad Logic"
-            url: /writeups/btlo/bad_logic
+            url: /write-ups/btlo/digital_forensics/bad_logic
