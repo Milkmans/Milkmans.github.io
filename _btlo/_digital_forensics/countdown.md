@@ -5,5 +5,5 @@ excerpt: "In a race against time, can you investigate a laptop seized by law enf
 permalink: /write-ups/btlo/digital_forensics/countdown
 
 header:
-  teaser: "/images/btlo/countdown/countdown_header.png"
+  teaser: "/images/btlo/countdown/countdown_header.jpg"
 ---
