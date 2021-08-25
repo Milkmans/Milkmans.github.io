@@ -10,10 +10,11 @@ header:
 ---
 ![](/images/btlo/phishyv1/phishyv1_header.png)
 ## **Overview**
+### [<ins>Title</ins>: Phishy v1]     [<ins>Difficulty</ins>: Easy]     [<ins>Category</ins>: Security Operations]     [<ins>Content Type:</ins> Pro]
 ### <ins>Scenario</ins>
 You have been sent a phishing link - It is your task to investigate this website and find out everything you can about the site, the actor responsible, and perform threat intelligence work on the operator(s) of the phishing site.
 
-Title: <ins>Phishy v1</ins> Difficulty:<ins>Easy</ins> Category:<ins>Security Operations</ins> Content Type: <ins>Pro</ins>
+
 
 ### <ins>Tool(s)</ins>
  - [Linux CLI (Bash)](https://www.gnu.org/software/bash/manual/bash.html){:target="_blank"}
