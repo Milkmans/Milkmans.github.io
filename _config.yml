@@ -311,7 +311,7 @@ defaults:
 
   # _btlo
   - scope:
-      path: "_btlo/*"
+      path: "btlo/*"
       type: btlo
     values:
       layout: single
