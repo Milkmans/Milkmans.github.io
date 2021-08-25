@@ -309,7 +309,7 @@ defaults:
       share: false
       related: false
 
-  # _btlo_operations
+  # _btlo
   - scope:
       path: ""
       type: btlo
