@@ -10,7 +10,7 @@ header:
 ---
 ![](/images/btlo/phishyv1/phishyv1_header.png)
 ## **Overview**
-*Title: *Phishy v1 [Difficulty: Easy] [Category: Security Operations] [Content Type: Pro]
+**Title:** Phishy v1 [Difficulty: Easy] [Category: Security Operations] [Content Type: Pro]
 
 ### <ins>Scenario</ins>
 You have been sent a phishing link - It is your task to investigate this website and find out everything you can about the site, the actor responsible, and perform threat intelligence work on the operator(s) of the phishing site.
