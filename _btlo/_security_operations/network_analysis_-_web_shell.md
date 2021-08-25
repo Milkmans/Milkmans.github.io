@@ -9,6 +9,9 @@ header:
   teaser: "/images/btlo/network_analysis_-_web_shell/challenge1_header.png"
 ---
 ![](/images/btlo/network_analysis_-_web_shell/challenge1_header.png){: .align-center}
-## Overview
+# Overview
+## Scenario 
 The SOC received an alert in their SIEM for ‘Local to Local Port Scanning’ where an internal private IP began scanning another internal system. Can you investigate and determine if this activity is malicious or not? You have been provided a PCAP, investigate using any tools you wish. 
 
+## Tools
+[Wireshark](https://www.wireshark.org/docs/man-pages/wireshark.html),[TShark](https://www.wireshark.org/docs/man-pages/tshark.html),[TCPDump](https://www.tcpdump.org/tcpdump_man.html)
