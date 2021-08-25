@@ -5,6 +5,6 @@ excerpt: "A web developer at Mountain Top Solutions discovers anomalous activity
 permalink: /write-ups/btlo/security_operations/peak
 
 header:
-  teaser: "/images/btlo/peak/peak_header.jpg"
+  teaser: "/images/btlo/peak/peak_header.png"
 ---
 
