@@ -5,5 +5,5 @@ excerpt: "A Managed Detection and Response (MDR) SOC pulled a suspicious email f
 permalink: /write-ups/btlo/digital_forensics/pretium
 
 header:
-  teaser: "/images/btlo/countdown/pretium_header.jpg"
+  teaser: "/images/btlo/countdown/pretium_header.png"
 ---
