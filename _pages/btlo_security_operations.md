@@ -1,7 +1,7 @@
 ---
 title: Security Operations Investigations/Challenges
-layout: collection
 permalink: /write-ups/btlo/security_operations/
+layout: collection
 collection: security_operations
 entries_layout: grid
 classes: wide
