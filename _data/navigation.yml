@@ -15,10 +15,10 @@ main:
 
 # Navigation for BTLO
 btlo:
-    - title: "Digital Forensics"
-      children:
-        title: "Peak"
-        url: /write-ups/btlo/digital_forensics/peak
-    - title: "Incident Response"
-    - title: "Reverse Engineering"
-    - title: "Security Operations"    
+   - title: "Digital Forensics"
+     children:
+       - title: "Peak"
+         url: /write-ups/btlo/digital_forensics/peak
+   - title: "Incident Response"
+   - title: "Reverse Engineering"
+   - title: "Security Operations"    
