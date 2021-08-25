@@ -294,9 +294,6 @@ collections:
   security_operations:
     output: true
     permalink: /:collection/:path/
-  thisisatest:
-    output: true
-    permalink: /:collection/:path/
         
 # Defaults
 defaults:
