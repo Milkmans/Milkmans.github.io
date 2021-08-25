@@ -2,7 +2,7 @@
 toc: true
 toc_sticky: true
 excerpt: "just a test"
-permalink: /write-ups/btlo/thisisatest/thisisatest
+permalink: /write-ups/btlo/thisisatest
 layout: btlo
 header:
   teaser: "/images/btlo/phishyv1/phishyv1_header.png"
