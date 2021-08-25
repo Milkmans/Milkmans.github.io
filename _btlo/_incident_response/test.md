@@ -2,9 +2,9 @@
 toc: true
 toc_sticky: true
 excerpt: "Incident Response"
-permalink: /write-ups/btlo/digital_forensics/countdown
+permalink: /write-ups/btlo/digital_forensics/invoice
 
 header:
-  teaser: "/images/btlo/countdown/countdown_header.jpg"
+  teaser: "/images/btlo/countdown/invoice_header.jpg"
 ---
 
