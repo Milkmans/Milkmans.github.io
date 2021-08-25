@@ -13,7 +13,7 @@ header:
 #### Title: Phishy v1  
 #### Difficulty: <span style="color:#349165">Easy</span> 
 #### Category: Security Operations 
-#### Content Type: <span style="color:#ecc94b">Pro</span> 
+<br><sup>Line under headerContent Type: <span style="color:#ecc94b">Pro</span></sup>
 
 ### <ins>Scenario</ins>
 You have been sent a phishing link - It is your task to investigate this website and find out everything you can about the site, the actor responsible, and perform threat intelligence work on the operator(s) of the phishing site.
