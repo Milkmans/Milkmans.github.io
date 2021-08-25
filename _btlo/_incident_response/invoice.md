@@ -5,6 +5,6 @@ excerpt: "Like every other day, Terry logged in and began working on his corpora
 permalink: /write-ups/btlo/digital_forensics/invoice
 
 header:
-  teaser: "/images/btlo/countdown/invoice_header.jpg"
+  teaser: "/images/btlo/countdown/invoice_header.png"
 ---
 
