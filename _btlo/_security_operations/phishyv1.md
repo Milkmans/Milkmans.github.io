@@ -10,7 +10,7 @@ header:
 ---
 ![](/images/btlo/phishyv1/phishyv1_header.png)
 ## **Overview**
-Title: Phishy v1\nDifficulty: <span style="color:#349165">Easy</span>
+Title: Phishy v1<br />Difficulty: <span style="color:#349165">Easy</span>
 Category: Security Operations
 Content Type: <span style="color:#ecc94b">Pro</span>
 
