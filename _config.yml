@@ -294,7 +294,7 @@ collections:
   security_operations:
     output: true
     permalink: /:collection/:path/
-    
+        
 # Defaults
 defaults:
   # _posts
@@ -308,7 +308,6 @@ defaults:
       comments: # true
       share: false
       related: false
-
   # _btlo
   - scope:
       path: ""
