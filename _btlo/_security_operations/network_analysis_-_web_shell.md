@@ -8,4 +8,4 @@ layout: btlo
 header:
   teaser: "/images/btlo/network_analysis_-_web_shell/challenge1_header.png"
 ---
-In development...
+![](/images/btlo/network_analysis_-_web_shell/challenge1_header.png)
