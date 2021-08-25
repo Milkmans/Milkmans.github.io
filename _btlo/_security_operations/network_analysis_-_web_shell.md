@@ -14,6 +14,6 @@ header:
 The SOC received an alert in their SIEM for ‘Local to Local Port Scanning’ where an internal private IP began scanning another internal system. Can you investigate and determine if this activity is malicious or not? You have been provided a PCAP, investigate using any tools you wish. 
 
 ## Tools
- - [Wireshark](https://www.wireshark.org/docs/man-pages/wireshark.html)
- - [TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
- - [TCPDump](https://www.tcpdump.org/tcpdump_man.html)
+ - [Wireshark](https://www.wireshark.org/docs/man-pages/wireshark.html){:target="_blank"}
+ - [TShark](https://www.wireshark.org/docs/man-pages/tshark.html){:target="_blank"}
+ - [TCPDump](https://www.tcpdump.org/tcpdump_man.html){:target="_blank"}
