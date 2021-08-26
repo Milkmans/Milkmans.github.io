@@ -2,7 +2,7 @@
 toc: true
 toc_sticky: true
 layout: wowzers
-permalink: /write-ups/oatlmeal/
+permalink: /write-ups/nonexistentdirectory/oatlmeal/
 ---
 TESTING?
 
