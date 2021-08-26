@@ -288,8 +288,7 @@ collections:
   security_operations:
     output: true
     permalink: /:collection/:path/
-collections:
-   btlo:
+  btlo:
     output: true
     permalink: /:collection/:path/
         
