@@ -1,5 +1,5 @@
 ---
 title: Blue Team Labs Online
-layout: testingagain
+layout: collection
 permalink: /write-ups/btlo/
 ---
