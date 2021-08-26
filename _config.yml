@@ -293,7 +293,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "_btlo"
+      path: "_btlo/*"
       type: posts
     values:
       layout: single
