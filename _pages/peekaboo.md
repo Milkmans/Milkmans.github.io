@@ -1,7 +1,8 @@
 ---
-title: Wheres the oatmeal
+toc: true
+toc_sticky: true
+layout: btlo
 permalink: /write-ups/oatlmeal/
-layout: testingagain
-entries_layout: grid
-classes: wide
 ---
+TESTING?
+
