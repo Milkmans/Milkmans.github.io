@@ -27,10 +27,8 @@ You have been sent a phishing link - It is your task to investigate this website
 
 ## Walkthrough
 
-<details> 
-  <summary>Q1: What is the best Language in the World? </summary>
-   A1: JavaScript 
-</details>
+<details><summary>**Question**: The HTML page used on securedocument.net is a decoy. Where was this webpage mirrored from, and what tool was used? </summary>
+   Answer: _61.221.12.26/cgi-sys/defaultwebpage.cgi, HTTrack_</details>
 
 
 ### Initial Triage
