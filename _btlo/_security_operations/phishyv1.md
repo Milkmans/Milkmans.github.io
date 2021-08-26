@@ -32,7 +32,7 @@ You have been sent a phishing link - It is your task to investigate this website
 
 <details>
   <summary><B>Question</B>: <u>The HTML page used on securedocument.net is a decoy. Where was this webpage mirrored from, and what tool was used?</u></summary>
-  61.221.12.26/cgi-sys/defaultwebpage.cgi, HTTrack
+  <i>61.221.12.26/cgi-sys/defaultwebpage.cgi, HTTrack</i>
 </details>
 {: .notice--info}
 
