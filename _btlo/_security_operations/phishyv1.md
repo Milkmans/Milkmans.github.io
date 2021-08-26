@@ -27,11 +27,7 @@ You have been sent a phishing link - It is your task to investigate this website
 
 ## Walkthrough
 
->! test
->! test
-">!" test
-
->>! test
+> ! test
 
 ### Initial Triage
 ### Analysis
