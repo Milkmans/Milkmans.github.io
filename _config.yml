@@ -315,4 +315,5 @@ defaults:
       share: false
       related: false
       sidebar:
+        title: testing
         nav: "btlo"
