@@ -278,7 +278,10 @@ collections:
   btlo:
     output: true
     permalink: /:collection/:path/  
-        
+  security_operations:
+    output: true
+    permalink: /:collection/:path/ 
+    
 # Defaults
 defaults:
   - scope:
