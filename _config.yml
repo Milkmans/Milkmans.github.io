@@ -293,6 +293,39 @@ collections:
 defaults:
   - scope:
       path: ""
+      type: digital_forensics
+    values:
+      author_profile: false
+      read_time: false
+      comments:  true
+      share: false
+      related: false
+      sidebar:
+        nav: "btlo"
+  - scope:
+      path: ""
+      type: incident_response
+    values:
+      author_profile: false
+      read_time: false
+      comments:  true
+      share: false
+      related: false
+      sidebar:
+        nav: "btlo"  
+  - scope:
+      path: ""
+      type: reverse_engineering
+    values:
+      author_profile: false
+      read_time: false
+      comments:  true
+      share: false
+      related: false
+      sidebar:
+        nav: "btlo"
+  - scope:
+      path: ""
       type: security_operations
     values:
       author_profile: false
@@ -301,5 +334,4 @@ defaults:
       share: false
       related: false
       sidebar:
-        title: testing
-        nav: "btlo"
+        nav: "btlo"        
