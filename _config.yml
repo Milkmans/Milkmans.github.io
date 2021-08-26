@@ -191,14 +191,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -312,7 +310,7 @@ defaults:
   # _btlo
   - scope:
       path: ""
-      type: wowzers
+      type: btlo
     values:
       layout: single
       author_profile: false
@@ -321,4 +319,4 @@ defaults:
       share: false
       related: false
       sidebar:
-        nav: "wowokay"
+        nav: "btlo"
