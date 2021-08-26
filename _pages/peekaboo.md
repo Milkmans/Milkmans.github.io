@@ -1,7 +1,7 @@
 ---
 toc: true
 toc_sticky: true
-layout: wowzers
+layout: btlo
 permalink: /write-ups/nonexistentdirectory/oatlmeal/peekaboo
 ---
 TESTING?
