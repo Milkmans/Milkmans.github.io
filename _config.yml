@@ -274,7 +274,6 @@ compress_html:
 
 
 # Collections
-collections_dir: _btlo
 collections:
   btlo:
     output: true
