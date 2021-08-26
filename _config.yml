@@ -312,7 +312,7 @@ defaults:
   # _btlo
   - scope:
       path: ""
-      type: testing
+      type: btlo
     values:
       layout: single
       author_profile: false
