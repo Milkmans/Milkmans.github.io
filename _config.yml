@@ -320,4 +320,4 @@ defaults:
       share: false
       related: false
       sidebar:
-        nav: "THISISATEST"
+        nav: testing
