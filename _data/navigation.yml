@@ -14,7 +14,7 @@ main:
   #   url: /sitemap/
 
 # Navigation for BTLO
-btlo:
+wowokay:
    - title: "Digital Forensics"
      children:
        - title: "Peak"
