@@ -289,30 +289,3 @@ collections:
     output: true
     permalink: /:collection/:path/
         
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_security_operations"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-  # _btlo
-  - scope:
-      path: ""
-      type: btlo
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments:  true
-      share: false
-      related: false
-      sidebar:
-        title: testing
-        nav: "btlo"
