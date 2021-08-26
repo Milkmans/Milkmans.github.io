@@ -27,7 +27,11 @@ You have been sent a phishing link - It is your task to investigate this website
 
 ## Walkthrough
 
-> ! test
+<details> 
+  <summary>Q1: What is the best Language in the World? </summary>
+   A1: JavaScript 
+</details>
+
 
 ### Initial Triage
 ### Analysis
